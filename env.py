@@ -1,6 +1,6 @@
 # online
-ACCESS_ID = "395t8a9gb55foo7ehez5"
-ACCESS_KEY = "3d0220cc74c744d982f957f0f7e6f3f0"
+ACCESS_ID = "ngwrsup3bcns3r0szbds"
+ACCESS_KEY = "2a48d4769dcf44cfbbbd2ad92bd7d63d"
 ENDPOINT = "https://openapi.tuyaus.com"
 USERNAME = ""
 PASSWORD = ""

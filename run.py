@@ -3,10 +3,12 @@ import time
 
 
 devicePIR = 'eb4b796e16a9d377cfvnqb'
-deviceSwicth = 'ebc3ac266279fd6a24kyru'
+deviceSwicth = 'eb9fd4d13d3fd60f6fbgpa'
 tuya = Tuya()
 tuya.get_token()
 
+# commands = {"commands":[{"code": "switch_1", "value":False}]}
+# tuya.sent_commands(deviceSwicth, commands)
 while True:
   try:
     pir_data = tuya.get_device_info(devicePIR)
